@@ -35,3 +35,11 @@ Amazon Customer Reviews (a.k.a. Product Reviews) is one of Amazon’s iconic pro
 
 ### Visualization using Tableau
 
+<img width="1229" alt="Screen Shot 2018-12-15 at 10 06 12 PM" src="https://user-images.githubusercontent.com/35616863/54063226-02eb1d80-41c0-11e9-934e-658ce14f031b.png">
+<img width="1419" alt="Screen Shot 2018-12-15 at 10 06 52 PM" src="https://user-images.githubusercontent.com/35616863/54063227-02eb1d80-41c0-11e9-9899-9bb2e8442db3.png">
+<img width="1439" alt="Screen Shot 2018-12-15 at 10 07 02 PM" src="https://user-images.githubusercontent.com/35616863/54063228-0383b400-41c0-11e9-92d9-e1e8a97a2ed9.png">
+<img width="1431" alt="Screen Shot 2018-12-15 at 10 07 33 PM" src="https://user-images.githubusercontent.com/35616863/54063229-0383b400-41c0-11e9-9cab-b1be41dbd1f6.png">
+<img width="1424" alt="Screen Shot 2018-12-15 at 10 07 46 PM" src="https://user-images.githubusercontent.com/35616863/54063230-0383b400-41c0-11e9-8e3f-0b2834c05b44.png">
+<img width="1328" alt="Screen Shot 2018-12-15 at 10 08 23 PM" src="https://user-images.githubusercontent.com/35616863/54063231-041c4a80-41c0-11e9-9161-9e3c6b7fbffa.png">
+<img width="1200" alt="Screen Shot 2018-12-15 at 10 08 48 PM" src="https://user-images.githubusercontent.com/35616863/54063232-041c4a80-41c0-11e9-9972-bbf560c5ba49.png">
+<img width="1147" alt="Screen Shot 2018-12-15 at 10 09 12 PM" src="https://user-images.githubusercontent.com/35616863/54063233-041c4a80-41c0-11e9-97a5-a1a023db0f5f.png">
